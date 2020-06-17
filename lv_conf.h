@@ -51,6 +51,7 @@
 
 /*Screen refresh period in milliseconds*/
 #define LV_REFR_PERIOD      30
+#define LV_INV_FIFO_SIZE    32    /*The average count of objects on a screen */
 
 /*-----------------
  *  VDB settings
